@@ -34,7 +34,7 @@ validated and secured.
 
 ## Overview
 
-The Token Service is a RESTful API built using Spring Boot. The microservice supports threaded comments, enabling users to reply to specific comments, fostering discussions around video content.
+The Comment Service is a RESTful API built using Spring Boot. The microservice supports threaded comments, enabling users to reply to specific comments, fostering discussions around video content.
 
 ## Features
 
