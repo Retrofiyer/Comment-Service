@@ -51,7 +51,7 @@ The Comment Service is a RESTful API built using Spring Boot. The microservice s
 ## Built With
 
 [![Spring Boot][springboot.com]][springboot-url]
-[![PostgreSQL][postgresql.com]][postgresql-url]
+[![MySQL][mysql.com]][mysql-url]
 [![RabbitMQ][rabbitmq.com]][rabbitmq-url]
 [![Swagger][swagger.com]][swagger-url] [![Docker][docker.com]][docker-url]
 
@@ -113,5 +113,5 @@ I would like you to contribute to this project. Whether it's fixing a bug, addin
 [rabbitmq-url]: https://www.rabbitmq.com/
 [swagger.com]: https://img.shields.io/badge/Swagger-black?style=for-the-badge&logo=swagger&logoColor=white
 [swagger-url]: https://swagger.io/
-[postgresql.com]: https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql&logoColor=white
-[postgresql-url]: https://www.postgresql.org/
+[mysql.com]: https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=white
+[mysql-url]: https://www.mysql.com/
