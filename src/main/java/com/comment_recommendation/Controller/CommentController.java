@@ -12,7 +12,7 @@ import java.util.List;
 
 @RestController
 @RequestMapping("/comment")
-@Tag(name = "Api Rest for brands use Swagger 3 - Authentication")
+@Tag(name = "Api Rest for brands use Swagger 3 - Comments")
 public class CommentController {
 
     @Autowired
